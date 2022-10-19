@@ -1,3 +1,2 @@
-[Patika.dev](https://www.patika.dev/tr)
+[Patika.dev](https://www.patika.dev/tr) Project Files
 
-www.patika.dev-projeleri projeleri
