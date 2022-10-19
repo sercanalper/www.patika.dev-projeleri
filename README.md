@@ -1,5 +1,5 @@
-# www.patika.dev-projeleri
-Insertion Sort Projesi www.patika.dev projeleri
+Insertion Sort Projesi
+
 [Patika.dev](https://www.patika.dev/tr)
 
 https://app.patika.dev/sercanalper
